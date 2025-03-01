@@ -2,7 +2,7 @@
 Quick fix that bridges the gap between qb-banking and qb-management in order to display business/gang bank accounts in the boss menu.
 
 # Feva's QB-Core Boss Menu Financial Integration Guide 
-# Show some love <3
+# Show some love <3 : https://www.youtube.com/channel/UCpNlrJxvEXcRNp6mJmt249A
 
 This guide explains how to implement financial information integration into the QB-Core boss menu system, allowing business owners and gang leaders to view their account balances directly from the management interface.
 
